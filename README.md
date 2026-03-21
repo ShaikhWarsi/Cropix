@@ -1,4 +1,7 @@
-# CROPIX: Smart Agriculture Solutions
+# Cropix
+
+CROPIX empowers farmers with AI-driven insights to optimize crop selection, fertilizer use, and soil health. Leveraging advanced machine learning models, it provides disease detection, market trend forecasting, and weather predictions through a modern, user-friendly web interface.
+
 
 ## Project Overview
 CROPIX is an intelligent agricultural platform designed to empower farmers with data-driven insights for optimized crop management. This project leverages machine learning models to provide recommendations for crop selection, fertilizer application, and soil analysis, ultimately aiming to enhance yield, reduce waste, and promote sustainable farming practices.
