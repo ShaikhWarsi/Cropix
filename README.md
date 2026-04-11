@@ -157,7 +157,6 @@ Production_CROPIX/
 ├── MODELS/                 # Jupyter notebooks or scripts for model development
 └── README.md               # This file
 ```
-
 ## Documentation
 - [API Documentation](backend/API_DOCUMENTATION.md): Detailed information about the backend API endpoints.
 - [Model Documentation](backend/MODEL_DOCUMENTATION.md): In-depth documentation for each machine learning model used in the project.
