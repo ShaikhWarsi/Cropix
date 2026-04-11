@@ -161,7 +161,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground">Email</h3>
-                    <p className="text-muted-foreground">shaikh.24bai10046@vitbhopal.ac.in</p>
+                    <p className="text-muted-foreground">shaikh@vitbhopal.ac.in</p>
                   </div>
                 </div>
               </CardContent>
@@ -182,7 +182,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h3 className="font-semibold text-foreground">Phone</h3>
-                    <p className="text-muted-foreground">+91 9131823270</p>
+                    <p className="text-muted-foreground">+91 1234563270</p>
                   </div>
                 </div>
               </CardContent>
