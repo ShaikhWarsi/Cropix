@@ -21,7 +21,7 @@ const teamMembers = [
       instagram: "https://www.instagram.com/rachittiwari",
     },
   },
-  {
+  {::::::
     name: "Shaikh Mohammad Warsi",
     role: "UI/UX Designer",
     bio: "Worked as frontend dev and made:- ui/ux and knn model",
